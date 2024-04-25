@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="myTools-rt" bajaVersion="0" vendor="tnq95" vendorVersion="1" description="" preferredSymbol="myTools" nre="true" autoload="true" installable="true" buildMillis="1714039305653" buildHost="DESKTOP-HR9IJA8" moduleName="myTools" runtimeProfile="rt">
+ <dependencies>
+  <dependency name="baja" vendor="Tridium" vendorVersion="4.9"/>
+  <dependency name="program-rt" vendor="Tridium" vendorVersion="4.9"/>
+ </dependencies>
+ <dirs/>
+ <types>
+  <type name="Program" class="autogen.BProgram"/>
+ </types>
+</module>

@@ -1,0 +1,19 @@
+/* Module Build File */
+description     = ""
+niagaraModule {
+  preferredSymbol = "myTools"
+  moduleName      = "myTools"
+  runtimeProfile  = "rt"
+  certAlias  = "myalias"
+}
+
+dependencies {
+  compile "Tridium:baja:4.9"
+  compile "Tridium:nre:4.9"
+  compile "Tridium:program-rt:4.9"
+}
+
+moduleTestJar {
+  from('srcTest') {
+  }
+}

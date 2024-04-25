@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="1.0">
+ <p m="b=baja" t="b:UnrestrictedFolder">
+  <p n="Program" m="myTools=myTools" t="myTools:Program"/>
+ </p>
+</bajaObjectGraph>

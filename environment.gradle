@@ -1,0 +1,11 @@
+/*
+ * Copyright 2024 tnq95, All Rights Reserved.
+ */
+/* Environment Configuration File */
+
+// Change niagara_home and niagara_user_home as needed to point to the
+// correct path to your desired Niagara install and its associated
+// user home
+gradle.ext.niagara_dev_home = "C:/Users/Admin/Niagara4.9/Webs/temp/myTools"
+gradle.ext.niagara_home = "C:/Honeywell/WEBStation-N4-4.9.1.30"
+gradle.ext.niagara_user_home = "C:/Users/Admin/Niagara4.9/Webs"
