@@ -5,5 +5,5 @@
   -->
 
 <types>
- <type name="Program" class="autogen.BProgram"/>
+ <type class="com.example.BAutoGenAlarm" name="AutoGenAlarm"/>
 </types>

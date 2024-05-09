@@ -4,7 +4,7 @@ niagaraModule {
   preferredSymbol = "myTools"
   moduleName      = "myTools"
   runtimeProfile  = "rt"
-  certAlias  = "myalias"
+  //certAlias  = "myalias"
 }
 
 dependencies {
